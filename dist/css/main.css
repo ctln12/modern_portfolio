@@ -201,7 +201,7 @@ main {
   border: 0;
   margin-bottom: 0.3rem; }
   .btn:hover, .btn-dark:hover, .btn-light:hover {
-    backgorund: #eece1a;
+    background: #eece1a;
     color: #000; }
 
 .btn-dark {
